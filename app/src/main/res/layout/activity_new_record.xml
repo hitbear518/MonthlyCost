@@ -1,0 +1,69 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="senwang.monthlycost.NewRecordActivity">
+
+    <RadioGroup
+        android:id="@+id/radio_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/expense_radio_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:checked="true"
+            android:onClick="onRadioButtonClicked"
+            android:text="@string/expense" />
+
+        <RadioButton
+            android:id="@+id/income_radio_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="onRadioButtonClicked"
+            android:text="@string/income" />
+
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/tags_edit"
+        android:layout_width="match_parent"
+        android:hint="@string/tag_hint"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/radio_group" />
+
+    <GridView
+        android:id="@+id/tags_grid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tags_edit" />
+
+    <EditText
+        android:id="@+id/amount_edit"
+        android:hint="@string/amount_hint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tags_grid"
+        android:gravity="right"
+        android:inputType="numberDecimal">
+
+        <requestFocus />
+    </EditText>
+
+
+    <Button
+        android:id="@+id/ok_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/amount_edit"
+        android:text="@android:string/ok" />
+
+</RelativeLayout>

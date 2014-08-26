@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Monthly Cost</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_record">New Record</string>
+    <string name="title_activity_child">ChildActivity</string>
+    <string name="title_activity_new_record">NewRecordActivity</string>
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="type">TYPE</string>
+    <string name="amount_hint">AMOUNT</string>
+    <string name="new_record_success_toast">新建记录成功！</string>
+    <string name="find_all_records_failed_log_text">Find all records failed: </string>
+    <string name="save_record_failed_log_text">Save record failed: </string>
+    <string name="find_tags_failed_log">Fail to find tags: </string>
+    <string name="tag_hint">TAG</string>
+    <string name="find_all_records_failed_toast">Find all records failed!</string>
+    <string name="new_record_failed_toast">New record failed!</string>
+    <string name="find_tags_failed_tost">Find tags failed!</string>
+    <string name="more_button_label">More</string>
+    <string name="invalid_amount_toast">Please enter corrent amount</string>
+    <string name="empty_tag_toast">Tag can\'t be empty!</string>
+
+</resources>

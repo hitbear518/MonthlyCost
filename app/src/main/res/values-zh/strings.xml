@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Monthly Cost</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="new_record">新建记录</string>
+    <string name="title_activity_new_record">@string/new_record</string>
+    <string name="expense">支出</string>
+    <string name="income">收入</string>
+    <string name="type">种类</string>
+    <string name="amount_hint">数量</string>
+    <string name="new_record_success_toast">新建记录成功！</string>
+    <string name="tag_hint">标签</string>
+    <string name="find_all_records_failed_toast">查询所有记录失败！</string>
+    <string name="new_record_failed_toast">新建记录失败！</string>
+    <string name="find_tags_failed_tost">Find tags failed!</string>
+    <string name="more_button_label">更多</string>
+    <string name="invalid_amount_toast">请输入正确的数目！</string>
+    <string name="empty_tag_toast">标签不能为空！</string>
+
+</resources>
