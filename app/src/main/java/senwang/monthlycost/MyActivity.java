@@ -57,8 +57,11 @@ public class MyActivity extends ListActivity {
 					mRecords = records;
 					BigDecimal sum = sumRecords(mRecords);
 					mBalanceTextView.setText(sum.toString());
-
-					fillRecentRecordList(mRecords.subList(0, 5));
+					if (mRecords.size() <= 5) {
+						fillRecentRecordList(mRecords);
+					} else {
+						fillRecentRecordList(mRecords.subList(0, 5));
+					}
 				} else {
 					Log.w(Utils.getTag(), getString(R.string.find_all_records_failed_log_text), e);
 					Toast.makeText(getApplicationContext(), R.string.find_all_records_failed_toast, Toast.LENGTH_SHORT).show();
@@ -98,6 +101,7 @@ public class MyActivity extends ListActivity {
 			row.put(AVConstants.KEY_AMOUNT, amountStr);
 			// Get record tag
 			AVObject tag = record.getAVObject(AVConstants.KEY_TAGS);
+			
 			String tagName = tag.getString(AVConstants.KEY_TAG_NAME);
 			row.put(AVConstants.KEY_TAG_NAME, tagName);
 			// Get record time

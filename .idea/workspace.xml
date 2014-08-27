@@ -58,35 +58,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NewRecordActivity.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="NewRecordActivity.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/senwang/monthlycost/NewRecordActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.4467213" vertical-offset="4367" max-vertical-offset="5263">
-              <caret line="267" column="12" selection-start-line="267" selection-start-column="12" selection-end-line="267" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="3702" max-vertical-offset="5054">
+              <caret line="254" column="51" selection-start-line="254" selection-start-column="51" selection-end-line="254" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1307#1315#0" expanded="true" />
-                <element signature="e#2208#2415#0" expanded="true" />
-                <element signature="e#2410#2411#0" expanded="true" />
-                <element signature="e#2912#2920#0" expanded="true" />
-                <element signature="e#3759#3859#0" expanded="true" />
-                <element signature="e#3854#3855#0" expanded="true" />
-                <element signature="e#4302#4310#0" expanded="true" />
-                <element signature="e#5057#5067#0" expanded="true" />
-                <element signature="e#5164#6120#0" expanded="true" />
-                <element signature="e#5707#5715#0" expanded="true" />
-                <element signature="e#5790#5798#0" expanded="true" />
-                <element signature="e#5955#5995#0" expanded="true" />
-                <element signature="e#6046#6076#0" expanded="true" />
-                <element signature="e#6115#6116#0" expanded="true" />
-                <element signature="e#6911#6940#0" expanded="true" />
-                <element signature="e#7150#7160#0" expanded="true" />
-                <element signature="e#7254#7262#0" expanded="true" />
-                <element signature="e#7423#7447#0" expanded="true" />
-                <element signature="e#8372#8865#0" expanded="true" />
-                <element signature="e#8566#8599#0" expanded="true" />
-                <element signature="e#8684#8731#0" expanded="true" />
-                <element signature="e#8789#8821#0" expanded="true" />
+                <element signature="e#8860#8861#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/senwang/monthlycost/MyActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.39265212" vertical-offset="1216" max-vertical-offset="2432">
+              <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+              <folding>
+                <element signature="e#1427#2088#0" expanded="true" />
+                <element signature="e#2083#2084#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -787,7 +779,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_my.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values-zh/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/record_list_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/senwang/monthlycost/MyActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/senwang/monthlycost/ComboBox.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/tag_item.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/senwang/monthlycost/TagAdapter.java" />
@@ -795,6 +786,7 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/senwang/monthlycost/NewRecordActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/senwang/monthlycost/AVConstants.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/senwang/monthlycost/MyActivity.java" />
       </list>
     </option>
   </component>
@@ -830,6 +822,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1110,8 +1104,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -1360,13 +1352,13 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4115684" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32814237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4115684" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4115684" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4115684" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24413647" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1411,28 +1403,7 @@
           <caret line="60" column="97" selection-start-line="60" selection-start-column="97" selection-end-line="60" selection-end-column="97" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1307#1315#0" expanded="true" />
-            <element signature="e#2208#2415#0" expanded="true" />
-            <element signature="e#2410#2411#0" expanded="true" />
-            <element signature="e#2912#2920#0" expanded="true" />
-            <element signature="e#3759#3859#0" expanded="true" />
-            <element signature="e#3854#3855#0" expanded="true" />
-            <element signature="e#4302#4310#0" expanded="true" />
-            <element signature="e#5057#5067#0" expanded="true" />
-            <element signature="e#5164#6120#0" expanded="true" />
-            <element signature="e#5707#5715#0" expanded="true" />
-            <element signature="e#5790#5798#0" expanded="true" />
-            <element signature="e#5955#5995#0" expanded="true" />
-            <element signature="e#6046#6076#0" expanded="true" />
-            <element signature="e#6115#6116#0" expanded="true" />
-            <element signature="e#6911#6940#0" expanded="true" />
-            <element signature="e#7150#7160#0" expanded="true" />
-            <element signature="e#7254#7262#0" expanded="true" />
-            <element signature="e#7423#7447#0" expanded="true" />
-            <element signature="e#8372#8865#0" expanded="true" />
-            <element signature="e#8566#8599#0" expanded="true" />
-            <element signature="e#8684#8731#0" expanded="true" />
-            <element signature="e#8789#8821#0" expanded="true" />
+            <element signature="e#8860#8861#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1441,7 +1412,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="513" max-vertical-offset="741">
           <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="e#1427#2088#0" expanded="true" />
+            <element signature="e#2083#2084#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1499,7 +1473,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="741">
           <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="e#1427#2088#0" expanded="true" />
+            <element signature="e#2083#2084#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1549,7 +1526,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="684">
           <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="e#1427#2088#0" expanded="true" />
+            <element signature="e#2083#2084#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1754,14 +1734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/senwang/monthlycost/MyActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29787233" vertical-offset="1862" max-vertical-offset="2755">
-          <caret line="112" column="37" selection-start-line="112" selection-start-column="37" selection-end-line="112" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/senwang/monthlycost/RecordAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3617021" vertical-offset="0" max-vertical-offset="893">
@@ -1828,32 +1800,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/senwang/monthlycost/NewRecordActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.4467213" vertical-offset="4367" max-vertical-offset="5263">
-          <caret line="267" column="12" selection-start-line="267" selection-start-column="12" selection-end-line="267" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="3702" max-vertical-offset="5054">
+          <caret line="254" column="51" selection-start-line="254" selection-start-column="51" selection-end-line="254" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1307#1315#0" expanded="true" />
-            <element signature="e#2208#2415#0" expanded="true" />
-            <element signature="e#2410#2411#0" expanded="true" />
-            <element signature="e#2912#2920#0" expanded="true" />
-            <element signature="e#3759#3859#0" expanded="true" />
-            <element signature="e#3854#3855#0" expanded="true" />
-            <element signature="e#4302#4310#0" expanded="true" />
-            <element signature="e#5057#5067#0" expanded="true" />
-            <element signature="e#5164#6120#0" expanded="true" />
-            <element signature="e#5707#5715#0" expanded="true" />
-            <element signature="e#5790#5798#0" expanded="true" />
-            <element signature="e#5955#5995#0" expanded="true" />
-            <element signature="e#6046#6076#0" expanded="true" />
-            <element signature="e#6115#6116#0" expanded="true" />
-            <element signature="e#6911#6940#0" expanded="true" />
-            <element signature="e#7150#7160#0" expanded="true" />
-            <element signature="e#7254#7262#0" expanded="true" />
-            <element signature="e#7423#7447#0" expanded="true" />
-            <element signature="e#8372#8865#0" expanded="true" />
-            <element signature="e#8566#8599#0" expanded="true" />
-            <element signature="e#8684#8731#0" expanded="true" />
-            <element signature="e#8789#8821#0" expanded="true" />
+            <element signature="e#8860#8861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/senwang/monthlycost/MyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39265212" vertical-offset="1216" max-vertical-offset="2432">
+          <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+          <folding>
+            <element signature="e#1427#2088#0" expanded="true" />
+            <element signature="e#2083#2084#0" expanded="true" />
           </folding>
         </state>
       </provider>
